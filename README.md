@@ -1,0 +1,3 @@
+## Ejercicio donde consultamos lat y long en base a direccion y obtenemos el clima
+
+Instalar los paquetes....
